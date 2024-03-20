@@ -1,0 +1,81 @@
+
+ {
+    
+    "header":{
+        "1":"حار",
+        "2":"شحن سريع مجاني"
+    },
+    "header2":{
+        "1":"متجر الكتروني",
+        "allCategory": "جميع الفئات",
+    "men": "رجال",
+   "women": "نساء"
+    },
+      
+    "header3":{
+        "category":"اصناف",
+        "Profile":"حساب شخصي",
+        "Books":"كتب",
+        "electronics":"اجهزة كهربائية",
+        "games":"العاب",
+        "home":"الرئيسية",
+        "order":"طلباتي",
+
+        "pages":"الصفحات",
+
+        "userAccount":"حساب المستخدم"
+    },
+
+ 
+    
+    "hero":
+    {
+        "LIFESTYLE":"مجموعة نمط الحياة",
+        "men":"رجالي",
+        "women":"نسائي",
+        "sale":"تنزيلات تصل الى",
+        "getFree":"احصل على شحن مجاني للطلبات التي تزيد قيمتها عن 99.00 دولارًا",
+        "shopNow":"اشتري الان",
+        "ARRIVALS":"وصلنا جديد",
+        "summer":"صيف",
+        "saleoff":" تخفيض الى",
+        "DESKTOPS":"كمبيوتر",
+        "LAPTOPS":"لابتوب",
+        "Fast_Delivery":"توصيل سريع",
+        "startFrom":"ابدأ من 10 دولارات",
+        "Money_Guarantee":"ضمان المال",
+        "7_Days_Back":"7 أيام العودة",
+        "365_Days":"365 ايام",
+        "For_Free_return":"للعودة المجانية",
+        "Payment":"دفع",
+        "Secure_System":"نظام آمن",
+        "Selected_Products":"المنتجات_المحددة"
+
+
+
+
+    }
+    ,
+    "main":
+    {
+        "Selected_Products":"المنتجات_المحددة",
+        "All_Products":"جميع المنتجات",
+        "MEN_Category":"فئة الرجال",
+        "Women_Category":"فئة النساء"
+
+    },
+
+    "contact":
+    {
+       
+
+
+
+    },
+
+    "footer":
+    {
+       
+
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "header":{
+        "1":"hot",
+        "2":"Free Express Shipping"
+    },
+
+    "header2":{
+        "1":"E-commerce",
+        "allCategory": "all Category",
+        "men": "men",
+        "women": "women"
+    },
+
+    "header3":{
+        "category":"Category",
+        "Profile":"Profile",
+        "Books":"Books",
+        "electronics":"ُElectronics",
+        "games":"Games",
+        "home":"Home",
+        "order":"My Order",
+
+        "pages":"Pages",
+
+        "userAccount":"User Account"
+
+
+    },
+
+    
+
+
+
+    "hero":
+    {
+        "LIFESTYLE":"LIFESTYLE COLLECTION",
+        "men":"Men",
+        "women":"Women",
+        "sale":"SALE UP TO",
+        "getFree":"Get Free Shipping on Orders Over $99.00",
+        "shopNow":"Shop Now",
+        "ARRIVALS":"New ARRIVALS",
+        "summer":"summer",
+        "saleoff":"Sale off",
+        "DESKTOPS":"DESKTOPS",
+        "LAPTOPS":"LAPTOPS",
+        "Fast_Delivery":"Fast Delivery",
+        "startFrom":"Start From $10",
+        "Money_Guarantee":"Money Guarantee",
+        "7_Days_Back":"7 Days Back",
+        "365_Days":"365 Days",
+        "For_Free_return":"For Free return",
+        "Payment":"Payment",
+        "Secure_System":"Secure System"
+
+
+        
+    }
+    ,
+    "main":
+    {
+        "Selected_Products":"Selected Products",
+        "All_Products":"All Products",
+        "MEN_Category":"MEN Category",
+        "Women_Category":"Women Category"
+    },
+
+    "contact":
+    {
+       
+    },
+
+    "footer":
+    {
+        
+
+        
+    }
+}
